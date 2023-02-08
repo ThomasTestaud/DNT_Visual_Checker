@@ -1,8 +1,5 @@
 # DNT_Visual_Checker
 
-DNT_Visual_Checker is a webApp developped on demand for a translator team. 
-They needed to check if <dnt> tags (for "do not translate") were properly used. 
+Créé pour équipe de rédacteur.e.s, DNT VisualChecker est mon premier projet en cours de développement pour une entreprise. C'est une app de traitement de texte qui sert à éditer les balises dnt (do not translate), utiles dans les logiciels de TAO (Traduction Assistée par Ordinateur).
 
-You can try for yourself the latest version at:
-
-https://thomastestaud.sites.3wa.io/Integration/Projets_Perso/DNT_Check/index.php
+Vous pouvez tester la dernière demo ici : www.thomastestaud.fr
